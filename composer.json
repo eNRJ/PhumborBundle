@@ -1,5 +1,5 @@
 {
-    "name": "jbouzekri/phumbor-bundle",
+    "name": "enrj/phumbor-bundle",
     "type": "symfony-bundle",
     "description": "A bridge for symfony with the phumbor client from 99designs",
     "keywords": ["phumbor", "thumbor", "Bundle", "Helper", "Twig", "Symfony"],
